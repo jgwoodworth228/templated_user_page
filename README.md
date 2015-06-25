@@ -1,6 +1,6 @@
 Create a templated user profile page in a new rails app that looks like:
 
-![carl sagan](/sagan.png)
+![carl sagan](/public/sagan.png)
 
 Feel free to embellish this design as you like, but make sure to use Bootstrap.
 
