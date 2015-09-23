@@ -13,3 +13,33 @@
  *= require_tree .
  *= require_self
  */
+
+h1{
+  text-align: center;
+}
+
+
+img{
+  width: 100%;
+  margin-bottom: 0;
+}
+
+.thumbnail{
+  margin-bottom: 0;
+  padding:  .5em;
+}
+
+@media (min-width: 768px) {
+  .dl-horizontal dt {
+    text-align: left;
+    width: 70px;
+     }
+}
+
+@media (min-width: 768px) {
+  .dl-horizontal dd {
+    text-align: left;
+    margin-left: 0;
+
+  }
+
